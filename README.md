@@ -1,9 +1,9 @@
 # ✨ _Lipitha Tummala_ ✨
 
-👋 Hi, I'm Lipi! I'm an aspiring software engineer, driven by a passion for leveraging technology for social good and making a meaningful impact! Currently, I'm working towards my Bachelor's in Computer Science at UC Santa Cruz.
+👋 Hi, I'm Lipi! I'm an aspiring software engineer, driven by a passion for leveraging technology for social good and creating a meaningful impact! Currently, I'm working towards my Bachelor's Degree in Computer Science at UC Santa Cruz.
 
 - 💼 Full-stack developer at a startup
-- 📍 West Coast girlie from the heart of SV
+- 📍 Born in India, raised in the Bay Area
 
 ![](https://github.com/lipithat/lipithat/blob/main/lisa_simpson.gif)
 
@@ -17,8 +17,8 @@
 - [LinkedIn](https://www.linkedin.com/in/lipitha-tummala-963211219/)
 - [Email](lipithatummala@gmail.com)
 
-### 💬 Ask me about
-- The downfall of the Star Wars and Marvel franchises
+### 💬 Ask Me About
+- The downfall of the Star Wars and Marvel franchises circa 2019
 - Nihilism
 - Theology
 
