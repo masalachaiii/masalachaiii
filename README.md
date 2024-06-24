@@ -15,7 +15,7 @@
 
 ### 🔗 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/lipitha-tummala-963211219/)
-- [Email](lipithatummala@gmail.com)
+- [Email](mailto:lipithatummala@gmail.com)
 
 ### 💬 Ask Me About
 - The downfall of the Star Wars and Marvel franchises circa 2019
