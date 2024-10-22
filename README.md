@@ -13,9 +13,9 @@
 - [Email](mailto:lipithatummala@gmail.com)
 
 ### 💬 Ask Me About
-- the downfall of the Star Wars and Marvel franchises circa 2019
 - nihilism
 - theology
+- the downfall of the Star Wars and Marvel franchises circa 2019
 
 <!--
 **lipithat/lipithat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
