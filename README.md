@@ -12,7 +12,7 @@
 - [LinkedIn](https://www.linkedin.com/in/lipitha-tummala-963211219/)
 - [Email](mailto:lipithatummala@gmail.com)
 
-### 💬 Ask Me About
+### ☕ Ask Me About
 - nihilism
 - theology
 - the downfall of the Star Wars and Marvel franchises circa 2019
